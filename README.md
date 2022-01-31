@@ -1,43 +1,26 @@
-# Slipknot News App
+# Imobiliaria-Django
 
-## App view:
+Vendas de imóveis feito em Python e Django.
 
-<p align="center">
-  <img src="https://i.ibb.co/x87XNwc/Whats-App-Image-2019-08-03-at-17-26-12.png" alt="Whats-App-Image-2019-08-03-at-17-26-12"
-  border="1" height="400" />
-  <img src="https://i.ibb.co/hW2vCMn/Whats-App-Image-2019-08-03-at-18-47-29.png" alt="Whats-App-Image-2019-08-03-at-18-47-29" border="1" height="400">
-  <img src="https://i.ibb.co/DrkPnPr/Whats-App-Image-2019-08-03-at-18-52-27.png" alt="Whats-App-Image-2019-08-03-at-18-52-27" border="1" height="400">
-  <img src="https://i.ibb.co/z7YbG4P/Whats-App-Image-2019-08-03-at-18-47-29-1.png" alt="Whats-App-Image-2019-08-03-at-18-47-29-1" border="1" height="400">
-</p>
+<h3>1. Tela de cadastro:</h3>
 
-# Instalação:
+![cadastro](https://user-images.githubusercontent.com/86477542/149590351-42e86491-4603-47ed-ab57-2fee3d084ba5.png)
 
-Faça Download do [slipknot-news.apk](http://www.mediafire.com/file/zswur32lcie8wxr/slipknot-news.apk/file), logo após realizar o download execute o arquivo .apk, se acontecer o seguinte:
+<h3>2. Tela de login:</h3>
 
-<p align="center">
-  <img src="https://i.ibb.co/8j7ssqb/Whats-App-Image-2019-08-03-at-19-32-04.png" alt="Whats-App-Image-2019-08-03-at-19-32-04" border="1" height="400">
-</p>
+![login](https://user-images.githubusercontent.com/86477542/149590585-7853c725-9e65-4674-9cd0-f0b624b733d1.png)
 
-para prosseguir a instalação basta clicar em **INSTALL ANYWAY** ou **INSTALAR DE QUALQUER MANEIRA** e seu app estará instalado em seu dispositivo.
+<h3>3. Home do sistema:</h3>
 
-# Erro - App não instalado:
+![home](https://user-images.githubusercontent.com/86477542/149590812-99b81f5c-8731-4b67-90e1-0cb38224808c.png)
 
-Para resolver o seguinte erro:
+<h3>4. Informações do imóvel:</h3>
 
-<p align="center">
-  <img src="https://i.ibb.co/tmvTwF6/Whats-App-Image-2019-08-03-at-19-32-04-1.png" alt="Whats-App-Image-2019-08-03-at-19-32-04-1" border="1" height="400">
-</p>
+![informações](https://user-images.githubusercontent.com/86477542/149590925-357e5a94-008d-4fc1-9fd9-8b0184b797f0.png)
 
-uma possivel maneira de resolver esse erro é ativando o **Airplane Mode** ou **Modo Avião**:
 
-<p align="center">
-  <img src="https://i.ibb.co/wwjrsdn/Whats-App-Image-2019-08-03-at-19-33-04.png" alt="Whats-App-Image-2019-08-03-at-19-33-04" border="1" height="400">
-</p>
+![inf2](https://user-images.githubusercontent.com/86477542/149590954-c724737f-11a3-43d9-af13-37b4903e577d.png)
 
-logo em seguida executar novamente o arquivo .apk e ele irá retornar a seguinte tela:
+<h3>5. Agendamento de visitas:</h3>
 
-<p align="center">
-  <img src="https://i.ibb.co/8j7ssqb/Whats-App-Image-2019-08-03-at-19-32-04.png" alt="Whats-App-Image-2019-08-03-at-19-32-04" border="1" height="400">
-</p>
-
-para prosseguir a instalação so clicar em **INSTALL ANYWAY** ou **INSTALAR DE QUALQUER MANEIRA** e seu app estará instalado em seu dispositivo.
+![Agendamento](https://user-images.githubusercontent.com/86477542/149591398-71ea91b4-7e95-4ab3-a159-913ecc8bd462.png)
