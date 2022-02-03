@@ -4,7 +4,7 @@ Vendas de imóveis feito em Python e Django.
 
 <h3>1. Tela de cadastro:</h3>
 
-![cadastro](https://user-images.githubusercontent.com/86477542/149590351-42e86491-4603-47ed-ab57-2fee3d084ba5.png)
+![cadastro](https://i.ibb.co/VSLGV4k/tela-cadastro.png)
 
 <h3>2. Tela de login:</h3>
 
